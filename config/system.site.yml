@@ -1,0 +1,14 @@
+uuid: da33bbd3-af18-4f45-9d77-1a84fc1774e3
+name: composer-dev
+mail: tanmay@osseed.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
